@@ -3,6 +3,16 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net462;net461;net46;net452;net451;net45;net40</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+
+    <PackageId>RefererParser.NetStandard</PackageId>
+    <PackageVersion>1.0.0.2</PackageVersion>
+    <Authors>iPerform Software BV</Authors>
+    <Description>A .NET implementation of the Snowplow referer-parser project</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Add support for NETStandard 2.0</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/Kyle2123/referer-parser/</PackageProjectUrl>
+    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageTags>RefererParser ReferrerParser Referrer Referer Parser Snowplow</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
